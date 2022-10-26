@@ -3,7 +3,7 @@
 # districts
 
 ## Authors
-- VGLUG (https://www.github.com/sulochanaviji)
+- VGLUG (https://www.github.com/vpmglug)
 ## Installation
 Install districts with pip
 ```bash
