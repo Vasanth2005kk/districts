@@ -12,7 +12,7 @@ def main():
         name = "package_template_districts",
         version = '0.0.1',
         author = "VGLUG",
-        author_email = "vijisulochana14@gmail.com",
+        author_email = "vpmglug@gmail.com",
         description = "A package template",
         #long_description = file: README.md
         #long_description_content_type = text/markdown
